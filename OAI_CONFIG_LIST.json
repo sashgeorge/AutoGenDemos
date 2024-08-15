@@ -1,0 +1,9 @@
+[
+    {
+      "model": "gpt-4",
+      "api_key": "dc46292ad6364226a540896d5c9d3f9f",
+      "base_url": "https://vz-infobot-oai.openai.azure.com/",
+      "api_type": "azure",
+      "api_version": "2024-03-01-preview"
+    }
+  ]
